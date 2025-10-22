@@ -1,0 +1,22 @@
+{
+  "name": "LoadScreen",
+  "short_name": "LoadScreen",
+  "description": "A fast and reliable PWA built with Next.js",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0070f3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
